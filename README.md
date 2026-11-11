@@ -1,6 +1,6 @@
-# senanfernando# 👋 Hi, I'm Senan Fernando
+👋 Hi, I'm Senan Fernando
 
-### 💻 Software Engineer | Full-Stack Developer | Tech Enthusiast
+💻 Software Engineer | Full-Stack Developer | Tech Enthusiast
 
 🎓 BSc (Hons) Software Engineering — University of Bedfordshire
 
@@ -14,12 +14,12 @@
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/senan-fernando-471ba7312L)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-khaki-omega-27.vercel.app/)
 
-## 💻 Tech Stack
+💻 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
