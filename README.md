@@ -6,7 +6,9 @@
 
 🚀 Experienced in building web applications, mobile apps and backend microservices.
 
-🌱 Currently exploring SEO, web performance and modern development technologies.
+🌱 Currently exploring SEO, web performance and modern development technologies. 
+
+❤️ Love to learn new tech and experience new things.
 
 🌐 Visit My Portfolio: https://my-portfolio-khaki-omega-27.vercel.app/
 
