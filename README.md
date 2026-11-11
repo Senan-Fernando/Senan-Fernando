@@ -8,8 +8,6 @@
 
 🌱 Currently exploring SEO, web performance and modern development technologies.
 
-💬 Ask me about React, React Native, Node.js, TypeScript and Docker.
-
 🌐 Visit My Portfolio: https://my-portfolio-khaki-omega-27.vercel.app/
 
 📫 Reach me: senanloneth@gmail.com
